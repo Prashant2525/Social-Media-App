@@ -98,8 +98,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **Your Name:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Your Name:** [dhimalprashant25@gmail.com](mailto:dhimalprashant25@gmail.com)
+- **GitHub:** [Prashant2525](https://github.com/Prashant2525)
 
 ## Acknowledgments
 
@@ -107,27 +107,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Glide](https://github.com/bumptech/glide)
 - [Android Developers Documentation](https://developer.android.com/docs)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
-
-> _“A well-written README is the first step to a great open-source project!”_
-
-**Customize this template with your screenshots, links, and any additional information specific to your project.**  
-This will make your repository professional, clear, and welcoming to users and contributors![3][1][2].
-
-[1] https://github.com/othneildrew/Best-README-Template
-[2] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-[3] https://hackernoon.com/5-professional-tips-for-crafting-a-winning-readme
-[4] https://github.com/futurice/android-best-practices/blob/master/README.md
-[5] https://www.youtube.com/watch?v=rCt9DatF63I
-[6] https://github.com/niharika2810/android-development-best-practices
-[7] https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
-[8] https://www.daytona.io/dotfiles/how-to-write-4000-stars-github-readme-for-your-project
-[9] https://rahuldkjain.github.io/gh-profile-readme-generator/
-[10] https://github.com/dkdevpro/android-app-starter
-[11] https://github.com/CircuitVerse/mobile-app/blob/master/README.md
-[12] https://dev.to/github/10-standout-github-profile-readmes-h2o
-[13] https://github.com/uber/android-template/blob/master/README.md
-[14] https://daily.dev/blog/readme-badges-github-best-practices
-[15] https://github.com/cortinico/kotlin-android-template/blob/main/README.md
-[16] https://github.com/blocoio/android-template/blob/master/README.md
-[17] https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
-[18] https://github.com/keenlabs/KeenClient-Android-Sample/blob/master/README.md
